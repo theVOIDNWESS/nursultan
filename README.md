@@ -4,7 +4,7 @@
 ```
 apt install git -y
 git clone https://github.com/theVOIDNWESS/nursultan.git
-cd nursultantheVOIDNWESS
+cd nursultan
 chmod +x install.sh
 sudo ./install.sh
 ```
