@@ -1,1 +1,1 @@
-python3 /usr/local/bin/nursultan.py
+python3 /usr/local/bin/nursultan.py "$@"
