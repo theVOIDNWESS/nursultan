@@ -6,13 +6,13 @@
     fi
 
     cp nursultan.py /usr/local/bin/nursultan
-    cp nur /usr/local/bin/nur
+    cp nursultan.py /usr/local/bin/nursultan.py
 
     chmod +x /usr/local/bin/nursultan
 
     sudo apt update  
     sudo apt install -y python3-pip
-    pip3 install -r requirements.txt
+    pip3 install -r requirements.txt --break-system-packages
     
     echo "Отправьте в консоль: nursultan"
 
