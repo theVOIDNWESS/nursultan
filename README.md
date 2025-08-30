@@ -2,7 +2,7 @@
 
 > установка на Debian | Ubuntu
 ```
-apt install git -y
+sudo apt install git -y
 git clone https://github.com/theVOIDNWESS/nursultan.git
 cd nursultan
 chmod +x install.sh
